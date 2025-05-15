@@ -10,7 +10,7 @@ import Toast from 'react-native-toast-message'
 import { useFonts } from 'expo-font'
 
 const Stack = createNativeStackNavigator()
-// Halo
+
 const toastConfig = {
   error: ({ text1, text2, props }) => (
     <View
