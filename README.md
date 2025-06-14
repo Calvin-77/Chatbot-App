@@ -91,22 +91,8 @@ expo start
 
 ---
 
-## License
-
-This project is licensed under the ISC License.
-
----
-
 ## Author
 
 - Calvin-77
 
 ---
-
-## Contributions
-
-Feel free to open issues or submit pull requests!
-
----
-
-*Note: This README is based on the detected project structure and dependencies. For a complete list of files, directories, and features, view the repository on [GitHub](https://github.com/Calvin-77/Chatbot-App). Results may be incomplete due to API pagination limits.*
